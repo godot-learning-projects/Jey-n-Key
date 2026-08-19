@@ -1,6 +1,5 @@
 # Jey'n Key GDD
-![Documentation](/GDD - Jey n Key.pdf)
-
+![Documentation](https://github.com/godot-learning-projects/Jey-n-Key/blob/main/GDD%20-%20Jey%20n%20Key.pdf)
 
 # TODO
 
