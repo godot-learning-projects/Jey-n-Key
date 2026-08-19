@@ -1,3 +1,7 @@
+# Jey'n Key GDD
+![Documentation](/GDD - Jey n Key.pdf)
+
+
 # TODO
 
 Change gameset status once the game is started
